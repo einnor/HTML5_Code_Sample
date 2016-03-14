@@ -1,12 +1,12 @@
 header, section, footer, aside, nav, main, article, figure {
     display: block;
 }
-.demo-wrapper * {
+.demo_wrapper * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.demo-wrapper {
+.demo_wrapper {
 	width: 38%;
 	margin: 0 auto;
 }
